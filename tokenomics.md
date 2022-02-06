@@ -1,10 +1,10 @@
-# \[R1] Tokenomics
+# Tokenomics
 
-‌Token name: $DAF &#x20;
+‌Token name: $dAngel &#x20;
 
 ‌Initial token type: BEP-20
 
-‌Total supply: 250.000.000 coins
+‌Total supply: 250.000.000&#x20;
 
 | **Token Distribution**                  | **Percentage** | **Vesting Schedule**                                                                                                        |
 | --------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -17,16 +17,6 @@
 | Liquidity pool                          | 12%            |                                                                                                                             |
 | Funding Pool                            | 40%            | 5% at TGE, released at 5% every 6 months, for 3 years                                                                       |
 | Total                                   | 100%           |                                                                                                                             |
-
-[https://docs.solanium.io/tokenomics](https://docs.solanium.io/tokenomics)
-
-&#x20;
-
-&#x20;
-
-Biz de TGE de kaci available yazabilir miyiz [Veli Tetik](https://dangelfund.atlassian.net/wiki/people/70121:6a6446d2-67ab-4b5c-b33c-f22b611879bf?ref=confluence)
-
-![](.gitbook/assets/164227)
 
 &#x20;
 

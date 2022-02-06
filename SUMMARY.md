@@ -1,6 +1,8 @@
 # Table of contents
 
-* [\[R1\] Staking Process of $DAF](README.md)
+* [Staking Process of $dAngel](README.md)
 * [Introduction](introduction.md)
-* [\[R1\] Funding Pool](r1-funding-pool.md)
-* [\[R1\] Tokenomics](r1-tokenomics.md)
+* [Funding Pool](funding-pool.md)
+* [Tokenomics](tokenomics.md)
+* [Tiers](tiers.md)
+* [Roadmap](roadmap.md)
