@@ -22,7 +22,7 @@
 
 Token Utilities
 
-* Allocations to private and curated pools are exclusive to $DAF token holders
-* $DAF tokens can be staked for longer periods to earn rare allocations
+* Allocations to private and curated pools are exclusive to $dAngel token holders
+* $dAngel tokens can be staked for longer periods to earn rare allocations
 * Voting rights and project governance when DAO is formed
 * Access to various community programs
