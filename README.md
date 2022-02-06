@@ -1,22 +1,61 @@
-# Staking Process of $dAngel
+# Introduction
 
-In this part, we would like to explain the step-by-step approach to staking your $dAngel. The staking works with a simple user interface, and workflow, so anyone without any technical knowledge can start to stake and unstake their $dAngel tokens.
+It's crucial to understand why we need a decentralized angel fund by describing the present pain points of crypto fundraising for the three main groups of participants: retail consumers, institutional investors, and projects.
 
-&#x20;
+Projects raise funds in a market that rewards shillers rather than creators. Legitimate initiatives are unable to obtain necessary resources to implement due to excessive fees and imposed platform-rent-seeking economics, while useless whitepapers raise millions. Projects must also raise finances on a tight timeline, rather than prioritizing development. Why should a launchpad compel IPOs after Demo Day? YCombinator, for example, doesn't push IPOs after Demo Day, so why should a launchpad? This is why we are building dAngel Fund. Decentralized Angel (dAngel) Fund is a multi-chain IDO launchpad platform with ecosystem of entrepreneurs, investors, project teams, and technology partners to connect each other through DAO mechanisms.
 
-Here is the step by step journey for staking your $dAngel tokens;
+dAngel Fund is an ecosystem of entrepreneurs, investors, project teams, and technology partners with mechanisms that support one another while also providing benefits to all parties involved.
 
-1. Connect your wallet (Metamask and more wallets coming soon) to dangel.fund website
-2. See your $dAngel token amount in the staking section.
-3. Type the number of tokens you want to stake, and press submit button.
-4. Click Stake & Lock button in the staking section.
-5. Accept the confirmation in your connected wallet.
-6. Once the transaction is complete, see a popup in stake area in the website displaying your current $dAngel tokens that are staking.
+The main components of dAngel Fund are;
 
-For the whitelisting process of upcoming IDOs, 15 days of staking is required, and during 15 days period, you can’t unlock your $dAngel tokens. After 15 days, you can unstake and unlock your tokens without any loss.
+* Launchpad
+* Staking
+* Funding Pool
+* DAO
+* Solution Partners Program
+* Community Rewards
 
-We will be providing longer time options other than 15-days-staking to allow you to get $dAngel token rewards. While this workflow is the base user experience of dAngel Fund staking mechanism, we will continue to add more robust features according to feedbacks that come from our community, and stakers.
+These aspects were intended to create win-win scenarios for the stakeholders participating in our ecosystem of
 
-For our ecosystem, we will be implementing smart contracts that $dAngel stakers can also stake tokens of the projects from our launchpad and this will be counted in tier allocation as well. We will be sharing the mechanism in Q2 2022.
+* Entrepreneurs, innovators, and project teams
+* dAngel investors i.e, token holders and stakers
+* Council members
+* Blockchain ecosystem products & services
 
-\
+We will go through all of the major product features and methods of the dAngel Fund ecosystem one by one in this whitepaper, and within each section, we will look at how the parties in our ecosystem interact and earn mutual benefits through these specific dynamics.
+
+While the elements mentioned in this whitepaper are the base versions of the dAngel Fund ecosystem, our DAO will start from the early days of release to go over all the details of user interfaces, processes, and numerical metrics with our community, allowing us to release products that have been thoroughly tested and improved through community feedback loops.
+
+As a result, community-driven input and DAO voting will serve as the backbone of not just our launchpad system, but also the dAngel Fund ecosystem's own product development cycles.
+
+We believe genuine decentralization, in combination with community-driven procedures, will always remain at the heart of the dAngel Fund ecosystem and product development cycles.
+
+
+
+**Technical**
+
+Research and development in order to make recommendations for possible architectural enhancements&#x20;
+
+Support for many blockchains to help expand and modify product scope&#x20;
+
+Suggestions for reducing gas fees&#x20;
+
+High-quality audits, tech integrations, bounty programs, and talent referrals
+
+**Token economics optimizations**
+
+To establish a tight feedback loop on any campaigns, supply data and analytics.
+
+**Marketing/BD/Operations**
+
+Focus on the most important "killer features" for each project.&#x20;
+
+Across all communities, localized assistance in operations.&#x20;
+
+Participate in hackathons and help organize them.&#x20;
+
+Assist in the creation of ecosystems including key stakeholders such as validators, users, and developers.&#x20;
+
+With ecosystem partners, warm introductions and grant program support.
+
+Quarterly web showcase/demo of projects incubated Legal/Compliance/Organizational Registration Connections.

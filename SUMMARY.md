@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Staking Process of $dAngel](README.md)
-* [Introduction](introduction.md)
-* [Funding Pool](funding-pool.md)
+* [Introduction](README.md)
 * [Tokenomics](tokenomics.md)
 * [Tiers](tiers.md)
+* [Staking Process of $dAngel](<README (1).md>)
+* [Funding Pool](funding-pool.md)
 * [Roadmap](roadmap.md)
