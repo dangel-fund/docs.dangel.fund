@@ -9,7 +9,7 @@ Below is our roadmap for the first year.
 * Concept creation, website launch, and social media
 * Initial team formation & community building
 * Smart contract audit, Coinmarketcap & Coingecko listing
-* Token generation, private sale & public sale of $DAF tokens
+* Token generation, private sale & public sale of $dAngel tokens
 * CEX listing
 
 &#x20;
