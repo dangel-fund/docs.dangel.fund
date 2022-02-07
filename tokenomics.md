@@ -6,17 +6,23 @@
 
 ‌Total supply: 250.000.000&#x20;
 
-| **Token Distribution**                  | **Percentage** | **Vesting Schedule**                                                                                                        |
-| --------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Private sale                            | 7%             | 20% at TGE, 20% unlocked each 2 months, linear vesting                                                                      |
-| Public sale                             | 4%             | 20% at TGE, 20% unlocked each 2 months, linear vesting                                                                      |
-| First Year Marketing & Development Fund | 5%             | 100% will be locked. Will start to get released two months after market release, each month at a rate of %0.5 for 10 months |
-| Team                                    | 16%            | 100% locked for the first 6 months, 2.5% unlocked each 6 months                                                             |
-| Advisors                                | 6%             | 100% locked for the first 6 months, 1% unlocked each 6 months                                                               |
-| Company Reserve                         | 10%            | %100 locked for 1 year                                                                                                      |
-| Liquidity pool                          | 12%            |                                                                                                                             |
-| Funding Pool                            | 40%            | 5% at TGE, released at 5% every 6 months, for 3 years                                                                       |
-| Total                                   | 100%           |                                                                                                                             |
+
+
+![](.gitbook/assets/Tokenomics.png)
+
+| **Token Distribution**                  | **Percentage** | **Vesting Schedule**                                                        |
+| --------------------------------------- | -------------- | --------------------------------------------------------------------------- |
+| Private sale                            | 5%             | 10% unlocked at TGE, 3 months cliff period, linear vesting until 24th month |
+| Public sale                             | 4%             | 100% unlocked at TGE                                                        |
+| First Year Marketing & Development Fund | 5%             | 100% locked at TGE, linear vesting until 12th month                         |
+| Founding Team                           | 12%            | 100% locked at TGE, 6 months cliff period, linear vesting until 24th month  |
+| Advisors                                | 5%             | 100% locked at TGE, 6 months cliff period, linear vesting until 24th month  |
+| Company Reserve                         | 10%            | 100% locked at TGE, 12 months cliff period, linear vesting until 24th month |
+| Community Rewards                       | 3%             | 20% unlocked at TGE, linear vesting until 12th month                        |
+| Partner Program                         | 8%             | 10% unlocked at TGE, linear vesting until 24th month                        |
+| Liquidity Mining Programs               | 8%             |  20% unlocked at TGE, linear vesting until 12th month                       |
+| Funding Pool Reserve                    | 40%            | 2% unlocked at TGE, linear vesting until 48th month                         |
+| Total                                   | 100%           |                                                                             |
 
 &#x20;
 
