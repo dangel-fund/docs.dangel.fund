@@ -9,4 +9,4 @@ As blockchain solutions become more widespread, affecting the IT and financial i
 
 The details for each item will be shared in Q1 2022.
 
-![](<.gitbook/assets/dAngel Fund DAO.png>)
+![](<.gitbook/assets/stage vjpeg-01.jpg>)
