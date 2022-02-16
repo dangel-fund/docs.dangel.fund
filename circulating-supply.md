@@ -1,3 +1,3 @@
 # Circulating Supply
 
-![](<.gitbook/assets/circulating supply.png>)
+![](<.gitbook/assets/Circulation Supply dAngel Token.png>)
