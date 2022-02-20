@@ -8,7 +8,7 @@ In dAngel Fund, transparency and fairness are the main key issues we care for. W
 | Tier 2    | 50,000               | 2               | lottery (50% chance of winning) |
 | Tier 3    | 12,500               | 6               | guaranteed                      |
 | Tier 4    | 25,000               | 14              | guaranteed                      |
-| Tier 5    | 500,000              | 30              | guaranteed                      |
+| Tier 5    | 50,000               | 30              | guaranteed                      |
 | Tier 6    | 125,000              | 80              | guaranteed                      |
 | Tier 7    | 250,000              | 175             | guaranteed                      |
 
