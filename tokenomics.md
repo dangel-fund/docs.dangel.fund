@@ -6,23 +6,24 @@
 
 ‌Total supply: 250.000.000&#x20;
 
+![](<.gitbook/assets/Tokenomics dAngel transparent.png>)
 
-
-![](.gitbook/assets/Tokenomics.png)
-
-| **Token Distribution**                  | **Percentage** | **Vesting Schedule**                                                        |
-| --------------------------------------- | -------------- | --------------------------------------------------------------------------- |
-| Private sale                            | 5%             | 10% unlocked at TGE, 3 months cliff period, linear vesting until 12th month |
-| Public sale                             | 4%             | 100% unlocked at TGE                                                        |
-| First Year Marketing & Development Fund | 5%             | 100% locked at TGE, linear vesting until 12th month                         |
-| Founding Team                           | 12%            | 100% locked at TGE, 6 months cliff period, linear vesting until 24th month  |
-| Advisors                                | 5%             | 100% locked at TGE, 6 months cliff period, linear vesting until 24th month  |
-| Company Reserve                         | 10%            | 100% locked at TGE, 12 months cliff period, linear vesting until 24th month |
-| Community Rewards                       | 3%             | 20% unlocked at TGE, linear vesting until 6th month                         |
-| Partner Program                         | 8%             | 10% unlocked at TGE, linear vesting until 15th month                        |
-| Liquidity Mining Programs               | 8%             |  10% unlocked at TGE, linear vesting until 12th month                       |
-| Funding Pool Reserve                    | 40%            | 4% unlocked at TGE, linear vesting until 36th month                         |
-| Total                                   | 100%           |                                                                             |
+| **Token Distribution**                  | **Percentage** | **Vesting Schedule**                                                   |
+| --------------------------------------- | -------------- | ---------------------------------------------------------------------- |
+| Seed sale                               | 3%             | 10% unlocked at TGE, 3 months cliff period, 10% monthly linear vesting |
+| Private sale                            | 8%             | 10% unlocked at TGE, 3 months cliff period, 10% monthly linear vesting |
+| Strategic sale                          | 3%             | 100% locked at TGE, 6 months cliff period, 10% monthly linear vesting  |
+| Public sale                             | 6%             | 100% unlocked at TGE                                                   |
+| Founding team                           | 12%            | 100% locked at TGE, 6 months cliff period, 5% monthly linear vesting   |
+| Advisors                                | 5%             | 100% locked at TGE, 6 months cliff period, 5% monthly linear vesting   |
+| Company reserves                        | 10%            | 100% locked at TGE, 12 months cliff period, 10% monthly linear vesting |
+| Partner programs                        | 10%            | 100% locked at TGE, 3 months cliff period, 10% monthly linear vesting  |
+| Funding pool reserve                    | 3%             | 100% locked at TGE, 2.5% monthly linear vesting                        |
+| 1st year marketing and development fund | 5%             | 100% locked at TGE, 10% monthly linear vesting                         |
+| Liquidity / listings                    | 8%             | 10% unlocked at TGE, 10% monthly linear vesting                        |
+| Community rewards                       | 25%            | 20% unlocked at TGE, 20% monthly linear vesting                        |
+| Total                                   | 100%           |                                                                        |
+|                                         |                |                                                                        |
 
 &#x20;
 
