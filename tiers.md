@@ -5,7 +5,7 @@ In dAngel Fund, transparency and fairness are the main key issues we care for. W
 | **Tiers** |  **Staked $dAngel**  | **Pool Weight** | **Type**                        |
 | --------- | -------------------- | --------------- | ------------------------------- |
 | Tier 1    | 2,500                | 1               | lottery (20% chance of winning) |
-| Tier 2    | 50,000               | 2               | lottery (50% chance of winning) |
+| Tier 2    | 5,000                | 2               | lottery (50% chance of winning) |
 | Tier 3    | 12,500               | 5               | guaranteed                      |
 | Tier 4    | 25,000               | 9               | guaranteed                      |
 | Tier 5    | 50,000               | 16              | guaranteed                      |
