@@ -2,8 +2,6 @@
 
 ‌Token name: $dAngel &#x20;
 
-‌Initial token type: BEP-20
-
 ‌Total supply: 250.000.000&#x20;
 
 ![](<.gitbook/assets/Tokenomics dAngel transparent.png>)
