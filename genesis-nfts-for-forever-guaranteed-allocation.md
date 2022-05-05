@@ -1,10 +1,10 @@
-# Genesis NFT for Forever Guaranteed Allocation
+# Genesis NFTs for Forever Guaranteed Allocation
 
-Our Genesis NFT collection is a privi- leged gift for our early supports in our community. Holders of the Genesis NFTs will obtain guaranteed alloca- tion forever for all IDOs in our launch- pad. They are very OP utility non-fungible tokens for the user who aim to join launchpad IDOs.
+Our Genesis NFT collection is a privileged gift for our early supports in our community. Holders of the Genesis NFTs will obtain guaranteed allocation forever for all IDOs in our launchpad. They are very OP utility non-fungible tokens for the user who aim to join launchpad IDOs.
 
 Just before our token IDO on our platform starts, participants can join Genesis NFT collection sale. The collection holds 10,000 uniquely generated NFTs which linked to different IDO allocation rights.
 
-We have curated a different combi- nation of NFTs with different allocation rights ranging from $5 to $1,000. As an example, the holder of a NFT token with allocation of $1,000 will gain allocation of the IDO token of a value of $1,000 in all of the IDOs.
+We have curated a different combination of NFTs with different allocation rights ranging from $5 to $1,000. As an example, the holder of a NFT token with allocation of $1,000 will gain allocation of the IDO token of a value of $1,000 in all of the IDOs.
 
 In each IDO, a portion of $100.000 of the fund raised through our launchpad will be allocated to Genesis NFT holders and this will ensure the allocation amount for each NFT will be constant over time.
 

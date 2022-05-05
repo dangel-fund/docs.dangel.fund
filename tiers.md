@@ -4,13 +4,13 @@ In dAngel Fund, transparency and fairness are the main key issues we care for. W
 
 | **Tiers** |  **Staked $dAngel**  | **Pool Weight** | **Type**                        |
 | --------- | -------------------- | --------------- | ------------------------------- |
-| Tier 1    | 2,500                | 1               | lottery (20% chance of winning) |
-| Tier 2    | 5,000                | 2               | lottery (50% chance of winning) |
-| Tier 3    | 12,500               | 5               | guaranteed                      |
-| Tier 4    | 25,000               | 9               | guaranteed                      |
-| Tier 5    | 50,000               | 16              | guaranteed                      |
-| Tier 6    | 125,000              | 32              | guaranteed                      |
-| Tier 7    | 250,000              | 52              | guaranteed                      |
+| Tier 1    | 2,000                | 1               | lottery (20% chance of winning) |
+| Tier 2    | 4,000                | 2               | lottery (20% chance of winning) |
+| Tier 3    | 10,000               | 5               | guaranteed                      |
+| Tier 4    | 17,500               | 9               | guaranteed                      |
+| Tier 5    | 35,000               | 16              | guaranteed                      |
+| Tier 6    | 90,000               | 32              | guaranteed                      |
+| Tier 7    | 175,000              | 52              | guaranteed                      |
 
 IDO Allocation is calculated according to the tier of participants. Tier 1 and tier 2 are lottery-based tiers, in which the number of participants is calculated by a predetermined chance of winning.
 

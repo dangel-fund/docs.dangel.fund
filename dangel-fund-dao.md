@@ -5,8 +5,7 @@ As blockchain solutions become more widespread, affecting the IT and financial i
 * The selection process of the projects for the launchpad
 * Further development process of the tech specs of the dAngel Fund platform
 * Roadmap and the business model of dAngel Fund Community involvement programs&#x20;
+* Community involvement programs
 * Reward mechanisms while our ecosystem grows
-
-The details for each item will be shared in Q1 2022.
 
 ![](<.gitbook/assets/stage vjpeg-01.jpg>)
