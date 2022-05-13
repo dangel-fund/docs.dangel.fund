@@ -1,8 +1,8 @@
 # Roadmap
 
-Our initial features and roadmap is structured by the founding team and partners, and as our community grows, we will undergo a full transformation to a DAO-based structure so that the members of the ecosystem will define the future of investment, dAngel Fund.
+Our initial features and roadmap has been structured by the founding team and partners. As our community grows, we will undergo a full transformation to a DAO-based structure in order to ensure members of the ecosystem will define the future of dAngel Funds investment.
 
-Below is our roadmap for the first year.
+Following is dAngel Funds roadmap for the initial year:
 
 2022 Q2:
 
@@ -16,7 +16,7 @@ Below is our roadmap for the first year.
 
 2022 Q3:
 
-* NFT Marketplace
+* NFT marketplace
 * DAO structure for voting
 * Council Member program
 * Staking reward mechanisms
@@ -29,7 +29,7 @@ Below is our roadmap for the first year.
 * Updated dashboard for staking, launching and DAO features
 * Solutions partner program growth
 * Community programs
-* Summit + Hackathon
+* Dev3 Summit + Hackathon
 
 &#x20;
 

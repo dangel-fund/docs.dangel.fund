@@ -1,9 +1,13 @@
 # Genesis NFTs for Forever Guaranteed Allocation
 
-Our Genesis NFT collection is an elite offering to our early supporters in our community. Holders of the Genesis NFTs will obtain permanent guaranteed allocation for all IDOs within our launchpad. These are OP utility non-fungible tokens for the user who intend to join launchpad IDOs.
+Our Genesis NFT collection is a privileged gift for our early supports in our community. Holders of the Genesis NFTs will obtain guaranteed allocation forever for all IDOs in our launchpad. They are very OP utility non-fungible tokens for the user who aim to join launchpad IDOs.
 
-Prior to commencement of our platforms token IDO, participants may chose to join the Genesis NFT collection sale. This collection holds 10,000 uniquely generated NFTs which associate to distinct IDO allocation rights.
+Just before our token IDO on our platform starts, participants can join Genesis NFT collection sale. The collection holds 10,000 uniquely generated NFTs which linked to different IDO allocation rights.
 
-We have curated a individual combination of NFTs with distinct allocation rights ranging from $5 to $1,000. For instance, the holder of a NFT token with allocation of $1,000 will attain allocation of the IDO token with a value of $1,000 in all of the IDOs.
+We have curated a different combination of NFTs with different allocation rights ranging from $5 to $1,000. As an example, the holder of a NFT token with allocation of $1,000 will gain allocation of the IDO token of a value of $1,000 in all of the IDOs.
 
-In each IDO, a portion of $100.000 funding raised through our launchpad will be allocated to Genesis NFT holders as this will ensure the allocation amount for each NFT to be invariably consistent. In order to generate an equitable distribution of Genesis NFTs, participants may obtain a limit up to 10 NFTs. Individual users who chose to obtain Genesis NFT are required to pass the KYC process prior to participation in order to support the propriety of the entire operation.
+In each IDO, a portion of $100.000 of the fund raised through our launchpad will be allocated to Genesis NFT holders and this will ensure the allocation amount for each NFT will be constant over time.
+
+For creating a fair distribution of Genesis NFTs, a participant can obtain a maximum number of 10 NFTs. Each user who wants to obtain Genesis NFT needs to pass KYC process before participation to support the fairness of the whole process.
+
+While Genesis NFTs holds a great power for IDO allocations, users will able to sell Genesis NFTs in our platform at a price they value over time if they want to. This way Genesis NFTs may switch hands yet the value will be stored over time at an increasing rate.
