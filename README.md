@@ -1,47 +1,61 @@
 # Introduction
 
-A decentralized angel fund is critical in order to comprehend particular aspects of crypto fundraising through three focal participants: retail consumers, institutional investors as well as projects.
+It's crucial to understand why we need a decentralized angel fund by describing the present pain points of crypto fundraising for the three main groups of participants: retail consumers, institutional investors, and projects.
 
-Projects raise funds in a market that rewards shillers rather than its creators. Legitimate initiatives are unobtainable through necessary resources in order to implement due to excessive fees and imposed platform-rent-seeking economics, all whilst futile whitepapers benefit considerably. Projects must raise finances on a tight timeline, rather than prioritize development. Why should a launchpad compel IPOs after Demo Day? For instance, ‘YCombinator’ does not push IPOs after Demo Day, thus, why should a launchpad? Hence why we are building dAngel Fund. Decentralized Angel (dAngel) Fund is an IDO launchpad platform with an ecosystem of entrepreneurs, investors, project teams, and technology partnerships in order to create a connection through DAO mechanisms directly.
+Projects raise funds in a market that rewards shillers rather than creators. Legitimate initiatives are unable to obtain necessary resources to implement due to excessive fees and imposed platform-rent-seeking economics, while useless whitepapers raise millions. Projects must also raise finances on a tight timeline, rather than prioritizing development. Why should a launchpad compel IPOs after Demo Day? YCombinator, for example, doesn't push IPOs after Demo Day, so why should a launchpad? This is why we are building dAngel Fund. Decentralized Angel (dAngel) Fund is an IDO launchpad platform with ecosystem of entrepreneurs, investors, project teams, and technology partners to connect each other through DAO mechanisms.
 
-Main components of dAngel Fund are:
+dAngel Fund is an ecosystem of entrepreneurs, investors, project teams, and technology partners with mechanisms that support one another while also providing benefits to all parties involved.
 
-1. Launchpad&#x20;
-2. Staking&#x20;
-3. $50M Funding Pool for main components and tokenomics for projects&#x20;
-4. DAO for managing the fund&#x20;
-5. Solution partner programs&#x20;
-6. Community rewards
+The main components of dAngel Fund are;
 
-These aspects were intended to create successfully balanced outcomes for the stakeholders participating in dAngel Funds ecosystem of:&#x20;
+* Launchpad
+* Staking
+* Funding Pool
+* DAO
+* Solution Partners Program
+* Community Rewards
 
-* Entrepreneurs, innovators, and project teams&#x20;
-* dAngel investors i.e, token holders and stakers&#x20;
-* Council members&#x20;
-* Blockchain ecosystem products & services&#x20;
+These aspects were intended to create win-win scenarios for the stakeholders participating in our ecosystem of
 
-We will uncover the major product features and methods of the dAngel Fund ecosystem explicitly throughout this whitepaper, and within each section we will verify how the parties in our ecosystem interact and earn mutual benefits through aforementioned specified dynamics.
+* Entrepreneurs, innovators, and project teams
+* dAngel investors i.e, token holders and stakers
+* Council members
+* Blockchain ecosystem products & services
 
-While the elements mentioned in this whitepaper are the base versions of the dAngel Fund ecosystem, our DAO will commence from the initial release in order to analyse the details of user interfaces, processes, and numerical metrics with our community, allowing us to release products that have been rigorously tested and enhanced through community feedback loops.
+We will go through all of the major product features and methods of the dAngel Fund ecosystem one by one in this whitepaper, and within each section, we will look at how the parties in our ecosystem interact and earn mutual benefits through these specific dynamics.
 
-As a result, community-driven input and DAO voting will serve as the backbone of not just our launchpad system, but also the dAngel Fund ecosystem's own product development cycles.We maintain that authentic decentralization, in union with community-driven procedures, will invariably persist at the heart of the dAngel Fund ecosystem and product development cycles.
+While the elements mentioned in this whitepaper are the base versions of the dAngel Fund ecosystem, our DAO will start from the early days of release to go over all the details of user interfaces, processes, and numerical metrics with our community, allowing us to release products that have been thoroughly tested and improved through community feedback loops.
 
-**Technical support**&#x20;
+As a result, community-driven input and DAO voting will serve as the backbone of not just our launchpad system, but also the dAngel Fund ecosystem's own product development cycles.
 
-* Research and development to construct viable guidance for possible architectural enhancements&#x20;
-* Support for a multitude of blockchains to support expansion as well as modify product scope&#x20;
-* Propositions for reducing gas fees&#x20;
-* High-quality audits, tech integrations, bounty programs, and talent referrals
+We believe genuine decentralization, in combination with community-driven procedures, will always remain at the heart of the dAngel Fund ecosystem and product development cycles.
 
-**Tokenomics optimizations**&#x20;
 
-* To establish a compact feedback loop on a variety of campaigns, supply data and analytics
 
-**Marketing/BD/Operations**&#x20;
+**Technical**
 
-* Focus on critical "indispensable features" for individual projects&#x20;
-* Beyond all communities, localized assistance within operations&#x20;
-* Participate in hackathons and assist in its organization&#x20;
-* Be of service through the creation of ecosystems including key stakeholders such as validators, users, and developers&#x20;
-* Cordial introductions and grant program support alongside ecosystem partners
+Research and development in order to make recommendations for possible architectural enhancements&#x20;
 
+Support for many blockchains to help expand and modify product scope&#x20;
+
+Suggestions for reducing gas fees&#x20;
+
+High-quality audits, tech integrations, bounty programs, and talent referrals
+
+**Token economics optimizations**
+
+To establish a tight feedback loop on any campaigns, supply data and analytics.
+
+**Marketing/BD/Operations**
+
+Focus on the most important "killer features" for each project.&#x20;
+
+Across all communities, localized assistance in operations.&#x20;
+
+Participate in hackathons and help organize them.&#x20;
+
+Assist in the creation of ecosystems including key stakeholders such as validators, users, and developers.&#x20;
+
+With ecosystem partners, warm introductions and grant program support.
+
+Quarterly web showcase/demo of projects incubated Legal/Compliance/Organizational Registration Connections.
