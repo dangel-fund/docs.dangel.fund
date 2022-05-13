@@ -1,6 +1,6 @@
 # Introduction
 
-A decentralized angel fund is critical in order to comprehend particular aspects of crypto fundraising through three focal participants: retail consumers, institutional investors as well as projects.
+It's crucial to understand why we need a decentralized angel fund by describing the present pain points of crypto fundraising for the three main groups of participants: retail consumers, institutional investors, and projects.
 
 Projects raise funds in a market that rewards shillers rather than its creators. Legitimate initiatives are unobtainable through necessary resources in order to implement due to excessive fees and imposed platform-rent-seeking economics, all whilst futile whitepapers benefit considerably. Projects must raise finances on a tight timeline, rather than prioritize development. Why should a launchpad compel IPOs after Demo Day? For instance, ‘YCombinator’ does not push IPOs after Demo Day, thus, why should a launchpad? Hence why we are building dAngel Fund. Decentralized Angel (dAngel) Fund is an IDO launchpad platform with an ecosystem of entrepreneurs, investors, project teams, and technology partnerships in order to create a connection through DAO mechanisms directly.
 
