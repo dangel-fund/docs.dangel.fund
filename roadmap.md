@@ -4,7 +4,7 @@ Our initial features and roadmap has been structured by the founding team and pa
 
 Following is dAngel Funds roadmap for the initial year:
 
-2022 Q2:
+2023 Q1:
 
 * Concept creation, website launch, and social media
 * Initial team formation & community building
@@ -14,7 +14,7 @@ Following is dAngel Funds roadmap for the initial year:
 
 &#x20;
 
-2022 Q3:
+2023 Q2-Q3:
 
 * NFT marketplace
 * DAO structure for voting
@@ -24,7 +24,7 @@ Following is dAngel Funds roadmap for the initial year:
 
 &#x20;
 
-2022 Q4:
+2023 Q4:
 
 * Updated dashboard for staking, launching and DAO features
 * Solutions partner program growth
@@ -33,7 +33,7 @@ Following is dAngel Funds roadmap for the initial year:
 
 &#x20;
 
-2023:
+2024:
 
 * Iterations with the feedbacks from the community
 * New roadmap planning with the DAO community for 2023
