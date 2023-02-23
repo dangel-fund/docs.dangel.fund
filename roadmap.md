@@ -4,12 +4,13 @@ Our initial features and roadmap has been structured by the founding team and pa
 
 Following is dAngel Funds roadmap for the initial year:
 
-2023 Q1:
+2022 - 2023 Q1:
 
 * Concept creation, website launch, and social media
 * Team formation & community building
 * Fundraising
 * Coinmarketcap listing
+* TGE, DEX listing
 
 &#x20;
 
