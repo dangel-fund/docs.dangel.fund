@@ -7,18 +7,17 @@ Following is dAngel Funds roadmap for the initial year:
 2023 Q1:
 
 * Concept creation, website launch, and social media
-* Initial team formation & community building
-* Smart contract audit, Coinmarketcap & Coingecko listing
-* Token generation, private sale & public sale of $dAngel tokens
-* CEX listing
+* Team formation & community building
+* Fundraising
+* Coinmarketcap listing
 
 &#x20;
 
 2023 Q2-Q3:
 
-* NFT marketplace
+* NFT marketplace & Genesis NFT Collection
 * DAO structure for voting
-* Council Member program
+* Council Member Program
 * Staking reward mechanisms
 * Automated reward distribution contract & audit
 
@@ -26,7 +25,7 @@ Following is dAngel Funds roadmap for the initial year:
 
 2023 Q4:
 
-* Updated dashboard for staking, launching and DAO features
+* Updated dashboard for staking, launching, and DAO features
 * Solutions partner program growth
 * Community programs
 * Dev3 Summit + Hackathon
@@ -35,5 +34,5 @@ Following is dAngel Funds roadmap for the initial year:
 
 2024:
 
-* Iterations with the feedbacks from the community
-* New roadmap planning with the DAO community for 2023
+* Iterations with the feedback from the community
+* New roadmap planning with the DAO community for 2024
