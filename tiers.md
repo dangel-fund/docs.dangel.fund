@@ -12,9 +12,7 @@ At dAngel Fund, transparency and impartiality are the focal issues we care for. 
 | Tier 6    | 25000                | 32              | guaranteed |
 | Tier 7    | 50000                | 52              | guaranteed |
 
-IDO Allocation has been determined according to the tier of participants. Tier 1 and tier 2 are lottery-based tiers, in which the number of participants is calculated by a predetermined chance of winning.
-
-For tiers between 1 and 7, allocation will be guaranteed.
+IDO Allocation has been determined according to the tier of participants.
 
 Fund allocation per participant will be calculated by pool weight for inclusive tiers.
 
